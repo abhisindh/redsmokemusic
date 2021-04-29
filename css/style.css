@@ -709,8 +709,11 @@ button {
      color: #0c0f38;
 }
 .bocs {
-    height: 300px;
-}
+     height: 500px;
+ }
+ .a {
+      text-align: center;
+ }
 
 
 /** end footer **/
